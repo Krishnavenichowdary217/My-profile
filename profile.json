@@ -1,0 +1,18 @@
+{
+	"basics": {
+		"name": "Krishnaveni",
+		"label": "Student",
+		"picture": "snap.jpg",
+		"email": "krishnaveni.gonuguntla217@gmail.com",
+		"phone": "9701083365",
+		"website": "https://kittu.pro/grammer",
+		"instagram": "https://www.instagram.com/Krishnaveni_chowdaryy",
+		"facebook": "https://www.facebook.com/kittu217",
+		"github": "https://github.com/Krishnavenichowdary217",
+		"summary": "I'm Krishnaveni, AIML student at Malla Reddy University in Hyderabad.I'm a passionate web developer with a strong interest in creating clean, responsive, and user-friendly websites. I enjoy turning ideas into functional web applications using HTML, CSS, JavaScript, and modern development tools. I'm continuously learning new technologies and improving my skills by building real-world projects. My goal is to develop high-quality digital experiences that are both visually appealing and efficient."
+	},
+	"theme": {
+		"url": "https://github.com/prakis/stringify.me-theme",
+		"background" :"#f98008"
+	}
+}
